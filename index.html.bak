@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pacifico">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+    <title>Manocha Di Hatti</title>
+
+</head>
+
+<body>
+    <div class="border">
+        <div class="nav">
+            <a href="#">Contact</a>
+            <a href="#">About Us</a>
+            <a href="login.html">Login/SignUp</a>
+        </div>
+    </div>
+    <div class="dn">
+        <h1>Manocha Di Hatti</h1>
+        <h2>Master Chef : <a class="hardik" href="https://www.instagram.com/hardik_manocha.08/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==" target="_blank" >Hardik Manocha</a></h2>
+        <img src="manocha.jpg" alt="" width="200px">
+    </div>
+    <div class="desc">
+        <h1>
+            Elevate your food journey with
+            <span style="color:chocolate">Manocha's Kitchen</span>
+            <p class="para">
+                Where every bite is adventure, and every meal is a memory waiting to be created. Welcome to the world of
+                flavors, where fresh ingredients meet culinary craftsmenship.
+                <br><br>- Hardik Manocha
+            </p>
+        </h1>
+    </div>
+</body>
+
+</html>
